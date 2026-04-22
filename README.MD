@@ -35,7 +35,7 @@ Puedes personalizar el comportamiento del script modificando las primeras línea
     // ==========================================
     // CONFIGURACIÓN: Reemplaza con tu URL de GitHub
     // ==========================================
-    const URL_DATA = "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/banco.json";
+    const URL_DATA = "https://raw.githubusercontent.com/TETvega/DippFormUNAH/main/DATA.JSON";
     const nivelDeSatisfaccion = 2; // 0: CRITICA, 1: INTERMEDIO, 2: EXCELENTE
 
     try {
