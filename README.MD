@@ -30,9 +30,6 @@ Puedes personalizar el comportamiento del script modificando las primeras línea
 
 ```javascript
 (async function() {
-    // ==========================================
-    // CONFIGURACIÓN: Reemplaza con tu URL de GitHub
-    // ==========================================
     const URL_DATA = "https://raw.githubusercontent.com/TETvega/DippFormUNAH/main/DATA.JSON";
     const nivelDeSatisfaccion = 2; // 0: CRITICA, 1: INTERMEDIO, 2: EXCELENTE
 
@@ -77,4 +74,3 @@ Puedes personalizar el comportamiento del script modificando las primeras línea
 
 ## ⚠️ Nota
 Este script es para uso educativo. Asegúrate de revisar las respuestas antes de enviar el formulario para confirmar que reflejan tu opinión real.
-```
