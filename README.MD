@@ -24,8 +24,6 @@ Puedes personalizar el comportamiento del script modificando las primeras línea
 | Variable | Descripción | Valores permitidos |
 | :--- | :--- | :--- |
 | `nivelDeSatisfaccion` | Define el tono de la evaluación | `0` (Crítico), `1` (Medio/Bueno), `2` (Excelente) |
-| `milisegundosDelay` | Tiempo de espera entre respuestas | `0` para instantáneo o `>0` para estabilidad |
-
 ---
 
 ## 🛠️ Script (Actualización 21/04/2026)
